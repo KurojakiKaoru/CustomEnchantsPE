@@ -45,6 +45,7 @@ To add Custom Enchantments and Items into kits, follow this guide:
 ### Contributions
 If you want to contribute to Custom Enchantments PE, please let me know at ztechnetwork.inc@gmail.com
 
-Current Version: 1.0.0-beta
+
 ### Changelog
+Current Version: 1.0.0-beta
 None(Still in development)
